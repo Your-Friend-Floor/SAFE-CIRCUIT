@@ -8,7 +8,7 @@ IF THERE IS A MODULE ERROR DO THIS INSTEAD
 pyinstaller --onefile --windowed --hidden-import tkinter eim_simulator.py
 
 
-
+code is dound in the safe circuit folder
 
 
 
